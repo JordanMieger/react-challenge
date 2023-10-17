@@ -1,0 +1,51 @@
+[
+    {
+        "id":"Hoodie gris",
+        "title":"Hoodie gris",
+        "description":"Sweat à capuche gris ",
+        "price":"49.90€",
+        "image":"https://img.freepik.com/photos-gratuite/portrait-athlete-exercant-exterieur_23-2148531091.jpg?w=826&t=st=1697444238~exp=1697444838~hmac=130b6fd456bd62a745f1baf2dd004a9d3ce2f451446d9bbd7fd01149f9f674ea",
+        "category":"Hoodies"
+    },
+    {
+        "id":"Hoodie noir",
+        "title":"Hoodie noir",
+        "description":"Sweat à capuche noir",
+        "price":"49.90€",
+        "image":"https://img.freepik.com/photos-premium/attractive-caucasian-man-wearing-blank-empty-black-hoodie-mockup-for-design-template_898891-354.jpg?size=626&ext=jpg&ga=GA1.2.1314763521.1697444222&semt=ais",
+        "category":"Hoodies"
+    },
+    {
+        "id":"Ensemble sport femme vert",
+        "title":"Ensemble sport femme vert",
+        "description":"Ensemble léger parfait pour le sport",
+        "price":"49.90€",
+        "image":"https://img.freepik.com/photos-gratuite/jeune-femme-costume-decontracte-aide-casque-sans-fil-plein-air_624325-3629.jpg?size=626&ext=jpg&ga=GA1.1.1314763521.1697444222&semt=ais",
+        "category":"Tenues"
+    },
+    {
+        "id":"Ensemble sport femme",
+        "title":"Ensemble sport femme",
+        "description":"Ensemble legging/brassière sport",
+        "price":"59.90€",
+        "image": "https://img.freepik.com/photos-gratuite/portrait-belle-femme-vetements-sport-etirant-ses-muscles-dans-stade_627829-10277.jpg?size=626&ext=jpg&ga=GA1.2.1314763521.1697444222&semt=ais",
+        "category": "Tenues"
+    },
+    {
+        "id": "Chaussures running homme",
+        "title": "Chaussures running homme",
+        "description": "Chaussures de course adaptée",
+        "price": "54.90€",
+        "image": "https://img.freepik.com/photos-gratuite/homme-tenue-sport-courir-dans-parc_1301-6420.jpg?size=626&ext=jpg&ga=GA1.1.1314763521.1697444222&semt=ais",
+        "category": "Chaussures"
+    },
+    {
+        "id":"Chaussures running femme",
+        "title": "Chaussures running femme",
+        "description": "Chaussures de course adaptée",
+        "price": "54.90€",
+        "image": "https://img.freepik.com/photos-gratuite/close-up-runner-chaussures-lacets-rouges_23-2148381975.jpg?size=626&ext=jpg&ga=GA1.2.1314763521.1697444222&semt=ais",
+        "category": "Chaussures"
+    }
+]
+
